@@ -2,6 +2,6 @@
 import calendar
 
 def cal(year,month,day):
-    print(str(calendar.day_name[calendar.weekday(year, month, day)]).upper())
+    return str(calendar.day_name[calendar.weekday(year, month, day)]).upper()
 
-k=cal(2015,5,8)
+
