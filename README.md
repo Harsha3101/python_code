@@ -1,1 +1,1 @@
-Basic python code: Here the code is writen in samples files and the test cases in test files. 
+Basic python code:  the code is solved from Hackerrank and after  written in samples files and the tested code in test files
