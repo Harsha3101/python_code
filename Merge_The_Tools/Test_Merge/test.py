@@ -2,7 +2,7 @@ import Merge_The_Tools.Sample_Merge.sample as m
 import unittest
 
 class testsample(unittest.TestCase):
-    def test_mutations(self):
+    def test_merge(self):
         string='AABCAAADA'
         k=3
         l=['AB','CA','AD']
