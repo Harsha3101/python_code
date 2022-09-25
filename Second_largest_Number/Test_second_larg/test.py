@@ -1,4 +1,4 @@
-import Second_larg.Sample_second_larg.sample as s
+import Second_largest_Number.Sample_second_larg.sample as s
 import unittest
 
 class testsample(unittest.TestCase):
