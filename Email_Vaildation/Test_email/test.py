@@ -1,6 +1,6 @@
 import unittest
 import re
-import email_reg.Sample_email.sample as e
+import Email_Vaildation.Sample_email.sample as e
 
 class testsample_fun(unittest.TestCase):
     def test_email(self):
