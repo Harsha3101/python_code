@@ -1,4 +1,4 @@
-import Mean_mid_var.Sample_mean.sample as m
+import Mean_Median_Var.Sample_mean.sample as m
 import unittest
 
 class testsample(unittest.TestCase):
