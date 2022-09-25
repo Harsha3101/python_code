@@ -1,4 +1,4 @@
-import Linearalgebra.Sample_Linear.sample as l
+import Linear_algebra.Sample_Linear.sample as l
 import unittest
 
 class testsample(unittest.TestCase):
