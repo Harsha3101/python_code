@@ -1,4 +1,4 @@
-import calander.Sample_Calander.sample as c
+import Calander.Sample_Calander.sample as c
 import unittest
 
 class testsample(unittest.TestCase):
