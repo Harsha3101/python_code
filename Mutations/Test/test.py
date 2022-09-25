@@ -1,4 +1,4 @@
-import mutations.Sample.sample as m
+import Mutations.Sample.sample as m
 import unittest
 
 class testsample(unittest.TestCase):
