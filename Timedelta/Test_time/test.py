@@ -1,4 +1,4 @@
-import timedalta.Sample_time.sample as t
+import Timedelta.Sample_time.sample as t
 import unittest
 
 class testsample(unittest.TestCase):
