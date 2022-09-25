@@ -1,4 +1,4 @@
-import min_max.sample_min_max.sample as m
+import Min_Max.sample_min_max.sample as m
 import unittest
 
 class testsample(unittest.TestCase):
