@@ -1,4 +1,4 @@
-import disjoin_sets.Sample_disjoin_sets.sample as d
+import Disjoin_Sets.Sample_disjoin_sets.sample as d
 import unittest
 
 class testsample(unittest.TestCase):
