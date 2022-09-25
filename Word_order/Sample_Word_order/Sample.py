@@ -13,8 +13,3 @@ def Word_order(k,j):
         l.append(n[a])
 
     return l
-
-k=4
-j=['bcdef','abcdefg','bcde','bcdef']
-p=Word_order(k,j)
-print(p)
