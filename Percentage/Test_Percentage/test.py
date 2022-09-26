@@ -1,4 +1,4 @@
-import Percentage.Sample_Percentage.sample as p
+import Percentage.Sample_Percentage.Sample as p
 import unittest
 
 class testsample(unittest.TestCase):
