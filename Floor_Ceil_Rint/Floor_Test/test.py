@@ -1,4 +1,4 @@
-import Floor_Ceil_Rint.Floor_Sample.Sample as f
+import Floor_Ceil_Rint.Floor_Sample.sample as f
 import unittest
 
 class testsample(unittest.TestCase):
